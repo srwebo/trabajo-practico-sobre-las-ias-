@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+    padding: 5%;
+}
+img{
+    height: 500px;
+    width: 150%;
+}
+p{
+    color: blueviolet;
+}
